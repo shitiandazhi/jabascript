@@ -1,1 +1,2 @@
-let int1 = 1;
+let hello = 'Hello World';
+alert(hello);
